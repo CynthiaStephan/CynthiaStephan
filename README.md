@@ -19,7 +19,7 @@ Mon parcours vers le développement web s'est construit autour de ma double pass
 ## 🎯 Ce que je recherche
 Actuellement, je suis à la recherche d'une **alternance en tant que développeuse Fullstack** pour approfondir mes compétences, m'immerger dans des projets concrets, et évoluer au sein d'une équipe. 
 
-## 🚀 Ma vision
+## 😎 Ma vision
 J'adore l'idée de fusionner le design et le développement pour créer des expériences complètes et engageantes. Mon but ? Concevoir des applications qui sont non seulement belles et intuitives, mais aussi robustes et adaptées aux besoins réels des utilisateurs.
 Chaque étape du processus de l'idée initiale au déploiement est une opportunité d'apprentissage et de création.
 
@@ -30,6 +30,7 @@ Chaque étape du processus de l'idée initiale au déploiement est une opportuni
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1A1D23?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-1A1D23?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-1A1D23?style=flat&logo=CSS3&logoColor=1572B6)
+![WordPress](https://img.shields.io/badge/-WordPress-1A1D23?style=flat&logo=wordpress)
 ![GSAP](https://img.shields.io/badge/-GSAP-1A1D23?style=flat&logo=greensock)
 ![React Router](https://img.shields.io/badge/-React%20Router-1A1D23?style=flat&logo=react-router)
 ![OGL](https://img.shields.io/badge/-OGL-1A1D23?style=flat&logo=webgl)
@@ -38,6 +39,7 @@ Chaque étape du processus de l'idée initiale au déploiement est une opportuni
 ![Node.js](https://img.shields.io/badge/-Node.js-1A1D23?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-1A1D23?style=flat&logo=express)
 ![PHP](https://img.shields.io/badge/-PHP-1A1D23?style=flat&logo=php)
+![Composer](https://img.shields.io/badge/-Composer-1A1D23?style=flat&logo=composer)
 ![Symfony](https://img.shields.io/badge/-Symfony-1A1D23?style=flat&logo=symfony)
 ![SQL](https://img.shields.io/badge/-SQL-1A1D23?style=flat&logo=mysql)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-1A1D23?style=flat&logo=api)

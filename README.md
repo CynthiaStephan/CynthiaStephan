@@ -73,6 +73,6 @@ Voici quelques projets sur lesquels j'ai travaillé :
    J'ai intégré les éléments visuels et connecté l'application à l'API pour la gestion des données.
 
 ## 📬 Où me trouver
-- **Email** : [s.cynthia972@gmail.com](mailto:s.cynthia972@gmail.com)
+- **Email** : [cynthia.stephan@institutsolacroup.com](mailto:cynthia.stephan@institutsolacroup.com)
 - **LinkedIn** : [linkedin.com/in/cynthia-stephan](https://www.linkedin.com/in/cynthia-stephan/)
 - **Portfolio** : [cynthia.errhub404.fr](https://cynthia.errhub404.fr/)

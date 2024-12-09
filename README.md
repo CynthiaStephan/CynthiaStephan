@@ -59,7 +59,7 @@ Chaque étape du processus de l'idée initiale au déploiement est une opportuni
 ![InDesign](https://img.shields.io/badge/-InDesign-1A1D23?style=flat&logo=adobe-indesign)
 
 ## 📚 J'apprends actuellement
-Je me concentre actuellement sur l'apprentissage des technologies suivantes : `PHP` `JAVA`
+Je me concentre actuellement sur l'apprentissage des technologies suivantes : `Symfony` `Java`
 
 ## ✨ Mes projets récents
 Voici quelques projets sur lesquels j'ai travaillé :
@@ -67,8 +67,8 @@ Voici quelques projets sur lesquels j'ai travaillé :
 ### [⚡En cours ] **[Portfolio](https://github.com/CynthiaStephan/portfolio)**   `React` `JavaScript` `OGL` `Gsap` `Mobile First`
    J'ai réalisé ce portfolio pour mettre en avant mes projets et compétences. C’était également l’opportunité d’explorer des technologies créatives comme OGL et GSAP.
 
-### **[Project_Api](https://github.com/CynthiaStephan/project-api)** `JavaScript` `Node.js` `API` `Docker`
-   Ce projet est un exercice d'API RESTful développé avec la méthode MVC. Il a permis de structurer l'application en séparant les responsabilités entre les modèles, les vues et les contrôleurs pour une meilleure gestion des données et des routes.
+### **[PawCalypse](https://github.com/CynthiaStephan/Pawcalypse)** `Php` `Twig` `Docker` `Composer`
+   Le projet Pawcalypse consiste à refactoriser une application existante en adoptant une architecture MVC (Modèle-Vue-Contrôleur) et une approche orientée objet (POO). L'objectif est de structurer le code de manière modulaire et maintenable.
 
 ### **[NotiMail](https://github.com/CynthiaStephan/NotiMail)** `React` `Router Dom` `API`
    C'est un projet de gestion de courrier réalisé en groupe au cours de ma formation.

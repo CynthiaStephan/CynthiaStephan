@@ -20,7 +20,7 @@ Mon parcours vers le développement web s'est construit autour de ma double pass
 Actuellement, je suis à la recherche d'une **alternance en tant que développeuse Fullstack** pour approfondir mes compétences, m'immerger dans des projets concrets, et évoluer au sein d'une équipe. 
 
 ## 😎 Ma vision
-J'adore l'idée de fusionner le design et le développement pour créer des expériences complètes et engageantes. Mon but ? Concevoir des applications qui sont non seulement belles et intuitives, mais aussi robustes et adaptées aux besoins réels des utilisateurs.
+J'adore fusionner le design et le développement pour créer des expériences complètes et captivantes. Mon but ? Concevoir des applications non seulement belles et intuitives, mais aussi efficaces et adaptées aux besoins réels des utilisateurs.
 Chaque étape du processus de l'idée initiale au déploiement est une opportunité d'apprentissage et de création.
 
 ## 💻 Mes compétences
@@ -59,13 +59,13 @@ Chaque étape du processus de l'idée initiale au déploiement est une opportuni
 ![InDesign](https://img.shields.io/badge/-InDesign-1A1D23?style=flat&logo=adobe-indesign)
 
 ## 📚 J'apprends actuellement
-Je me concentre actuellement sur l'apprentissage des technologies suivantes : `Symfony` `Java`
+Je me concentre actuellement sur l'apprentissage des technologies suivantes : `Symfony` `Python`
 
 ## ✨ Mes projets récents
 Voici quelques projets sur lesquels j'ai travaillé :
 
-### [⚡En cours ] **[Portfolio](https://github.com/CynthiaStephan/portfolio)**   `React` `JavaScript` `OGL` `Gsap` `Mobile First`
-   J'ai réalisé ce portfolio pour mettre en avant mes projets et compétences. C’était également l’opportunité d’explorer des technologies créatives comme OGL et GSAP.
+### **[Portfolio](https://github.com/CynthiaStephan/portfolio)**   `React` `JavaScript` `OGL` `Gsap` `Mobile First`
+   J'ai réalisé ce portfolio pour mettre en avant mes projets et compétences. C'était également l'opportunité d'explorer des technologies créatives comme OGL et GSAP.
 
 ### **[PawCalypse](https://github.com/CynthiaStephan/Pawcalypse)** `Php` `Twig` `Docker` `Composer`
    Le projet Pawcalypse consiste à refactoriser une application existante en adoptant une architecture MVC (Modèle-Vue-Contrôleur) et une approche orientée objet (POO). L'objectif est de structurer le code de manière modulaire et maintenable.

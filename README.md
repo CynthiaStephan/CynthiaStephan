@@ -42,6 +42,8 @@ Chaque étape du processus de l'idée initiale au déploiement est une opportuni
 ![Composer](https://img.shields.io/badge/-Composer-1A1D23?style=flat&logo=composer)
 ![Symfony](https://img.shields.io/badge/-Symfony-1A1D23?style=flat&logo=symfony)
 ![SQL](https://img.shields.io/badge/-SQL-1A1D23?style=flat&logo=mysql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-1A1D23?style=flat&logo=nosql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1A1D23?style=flat&logo=mongodb)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-1A1D23?style=flat&logo=api)
 ![Jest](https://img.shields.io/badge/-Jest-1A1D23?style=flat&logo=jest)
 
@@ -59,20 +61,25 @@ Chaque étape du processus de l'idée initiale au déploiement est une opportuni
 ![InDesign](https://img.shields.io/badge/-InDesign-1A1D23?style=flat&logo=adobe-indesign)
 
 ## 📚 J'apprends actuellement
-Je me concentre actuellement sur l'apprentissage des technologies suivantes : `Symfony` `Python`
+Je me concentre actuellement sur l'apprentissage des technologies suivantes : `Python - Django`
 
 ## ✨ Mes projets récents
 Voici quelques projets sur lesquels j'ai travaillé :
 
 ### **[Portfolio](https://github.com/CynthiaStephan/portfolio)**   `React` `JavaScript` `OGL` `Gsap` `Mobile First`
-   J'ai réalisé ce portfolio pour mettre en avant mes projets et compétences. C'était également l'opportunité d'explorer des technologies créatives comme OGL et GSAP.
+   Ce portfolio a été conçu pour présenter mes projets et compétences tout en explorant des technologies comme OGL et GSAP. Il a été développé avec une approche mobile-first et met l'accent sur une structure simple et efficace.
+
+### **[RoboStore](https://github.com/CynthiaStephan/RoboStore)** `Symfony` `Twig` `MVC` 
+   RoboStore est une boutique en ligne fictive développée avec Symfony, mettant en avant une gamme de robots révolutionnaires. Ce projet permet aux utilisateurs de parcourir un catalogue de robots, de consulter des fiches détaillées et de gérer un panier pour simuler des achats. Il applique également les principes de conception MVC et SOLID, offrant une expérience utilisateur fluide et un code maintenable.
 
 ### **[PawCalypse](https://github.com/CynthiaStephan/Pawcalypse)** `Php` `Twig` `Docker` `Composer`
-   Le projet Pawcalypse consiste à refactoriser une application existante en adoptant une architecture MVC (Modèle-Vue-Contrôleur) et une approche orientée objet (POO). L'objectif est de structurer le code de manière modulaire et maintenable.
+   PawCalypse consiste à refactoriser une application existante pour adopter une architecture MVC et appliquer les principes SOLID. Ce projet met l'accent sur la gestion des missions félines et des ressources dans une interface web intuitive, avec :
 
-### **[NotiMail](https://github.com/CynthiaStephan/NotiMail)** `React` `Router Dom` `API`
-   C'est un projet de gestion de courrier réalisé en groupe au cours de ma formation.
-   J'ai intégré les éléments visuels et connecté l'application à l'API pour la gestion des données.
+   * Un système de suivi des missions et des ressources.
+   * Une gestion des utilisateurs et des sessions.
+   * Un tableau de bord dynamique pour suivre l’avancement du soulèvement félin.
+   
+   Les optimisations incluent l'utilisation de Twig pour les vues, Whoops pour le débogage et Composer pour une gestion des dépendances.
 
 ## 📬 Où me trouver
 - **Email** : [cynthia.stephan@institutsolacroup.com](mailto:cynthia.stephan@institutsolacroup.com)

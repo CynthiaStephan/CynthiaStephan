@@ -1,85 +1,97 @@
 ![Bannière Cynthia Stephan](./src/banner.jpg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cynthia-stephan/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cynthia.stephan@institutsolacroup.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A53860?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1nbG9iZSI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMmExNC41IDE0LjUgMCAwIDAgMCAyMCAxNC41IDE0LjUgMCAwIDAgMC0yMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwIi8+PC9zdmc+)](https://cynthia.errhub404.fr/)
-
+<p align="center">
+<a style="margin-right: 8px;" href="https://cynthia.errhub404.fr/"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt="Lien vers mon portfolio "></a>
+<a style="margin-right: 8px;" href="https://www.linkedin.com/in/cynthia-stephan/"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="Lien vers mon profil LinkedIn"></a>
+<a style="margin-right: 8px;" href="(mailto:cynthia.stephan@institutsolacroup.com"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" alt="Adresse email : cynthia.stephan@institutsolacroup.com"></a>
+</p>
 
 
 
 # Hello, moi c'est Cynthia 🤗
 
-Mon parcours vers le développement web s'est construit autour de ma double passion pour l'art et la technologie. J'ai débuté par le design UI/UX, captivée par la création d'interfaces intuitives qui améliorent l'expérience utilisateur. Cette curiosité pour l'aspect technique m'a naturellement menée vers le développement.
+> En quête d’une alternance pour contribuer à des projets web ambitieux en tant que **développeuse Fullstack** ! 🚀
+
+Passionnée par l'art et les technologies,  j'ai commencé par le design UI/UX avant de me passionner pour le code ! Cette double casquette me permet aujourd'hui d'avoir une vision complète du développement web. En formation Fullstack à l'IMTS de Dinard, je cherche une alternance où je pourrai mettre à profit ces deux facettes qui me tiennent à cœur.
 
 ## 🌱 Mon parcours, étape par étape :
 - **UI/UX Designer** : La création d'interfaces intuitives m'a appris l'importance d'une expérience utilisateur bien pensée.
 - **Développement Front-End** : J'ai appris à donner vie aux designs, en créant des interfaces interactives et fonctionnelles.
-- **Développement Back-End** : En formation à l'IMTS de Dinard, j'explore l'architecture des applications et la gestion des données.
-
-## 🎯 Ce que je recherche
-Actuellement, je suis à la recherche d'une **alternance en tant que développeuse Fullstack** pour approfondir mes compétences, m'immerger dans des projets concrets, et évoluer au sein d'une équipe. 
+- **Développement Back-End** : En formation à l'IMTS de Dinard, j'explore l'architecture des applications et la gestion des données. 
 
 ## 😎 Ma vision
-J'adore fusionner le design et le développement pour créer des expériences complètes et captivantes. Mon but ? Concevoir des applications non seulement belles et intuitives, mais aussi efficaces et adaptées aux besoins réels des utilisateurs.
-Chaque étape du processus de l'idée initiale au déploiement est une opportunité d'apprentissage et de création.
+J'adore fusionner le design et le développement pour créer des expériences complètes et captivantes. Mon but ? Concevoir des applications non seulement belles et intuitives, mais aussi alignées avec les besoins des utilisateurs.
+ À chaque étape du processus, je cherche à perfectionner mon approche, tout en apprenant de chaque projet pour aller toujours plus loin.
 
 ## 💻 Mes compétences
 
+<div style="display: flex; gap: 2rem">
+<div>
+
 ### Front-End
-![React](https://img.shields.io/badge/-React-1A1D23?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1A1D23?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-1A1D23?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-1A1D23?style=flat&logo=CSS3&logoColor=1572B6)
-![WordPress](https://img.shields.io/badge/-WordPress-1A1D23?style=flat&logo=wordpress)
-![GSAP](https://img.shields.io/badge/-GSAP-1A1D23?style=flat&logo=greensock)
-![React Router](https://img.shields.io/badge/-React%20Router-1A1D23?style=flat&logo=react-router)
-![OGL](https://img.shields.io/badge/-OGL-1A1D23?style=flat&logo=webgl)
-
-### Back-End
-![Node.js](https://img.shields.io/badge/-Node.js-1A1D23?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-1A1D23?style=flat&logo=express)
-![PHP](https://img.shields.io/badge/-PHP-1A1D23?style=flat&logo=php)
-![Composer](https://img.shields.io/badge/-Composer-1A1D23?style=flat&logo=composer)
-![Symfony](https://img.shields.io/badge/-Symfony-1A1D23?style=flat&logo=symfony)
-![SQL](https://img.shields.io/badge/-SQL-1A1D23?style=flat&logo=mysql)
-![NoSQL](https://img.shields.io/badge/-NoSQL-1A1D23?style=flat&logo=nosql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1A1D23?style=flat&logo=mongodb)
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-1A1D23?style=flat&logo=api)
-![Jest](https://img.shields.io/badge/-Jest-1A1D23?style=flat&logo=jest)
-
-### Outils
-![Git](https://img.shields.io/badge/-Git-1A1D23?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-1A1D23?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-1A1D23?style=flat&logo=docker)
-![VSCode](https://img.shields.io/badge/-VS%20Code-1A1D23?style=flat&logo=visual-studio-code)
+<p>
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="Compétence en React">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="Compétence en JavaScript">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" alt="Compétence en HTML">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" alt="Compétence en CSS">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome3.svg" alt="Utilisation de Font Awesome">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" alt="Compétence en ViteJS">
+</p>
 
 ### Design
-![Figma](https://img.shields.io/badge/-Figma-1A1D23?style=flat&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-1A1D23?style=flat&logo=adobe-xd)
-![Photoshop](https://img.shields.io/badge/-Photoshop-1A1D23?style=flat&logo=adobe-photoshop)
-![Illustrator](https://img.shields.io/badge/-Illustrator-1A1D23?style=flat&logo=adobe-illustrator)
-![InDesign](https://img.shields.io/badge/-InDesign-1A1D23?style=flat&logo=adobe-indesign)
+<p>
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" alt="Compétence en Figma">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg" alt="Compétence en Adobe XD">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg" alt="Compétence en Photoshop">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg" alt="Compétence en Illustrator">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign3.svg" alt="Compétence en InDesign">
+</p>
 
-## 📚 J'apprends actuellement
-Je me concentre actuellement sur l'apprentissage des technologies suivantes : `Python - Django`
+</div>
+<div>
+
+### Back-End
+<p>
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" alt="Compétence en Node.js">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" alt="Compétence en Express.js">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg" alt="Compétence en PHP">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony3.svg" alt="Compétence en Symfony">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg" alt="Compétence en SQLite">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" alt="Compétence en MySQL">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg" alt="Compétence en MongoDB">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" alt="Compétence en Jest">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Compétence en Python">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize3.svg" alt="Compétence en Sequelize">
+</p>
+
+### Outils
+<p>
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" alt="Utilisation de Git">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="Utilisation de GitHub">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" alt="Compétence en Docker">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Utilisation de Visual Studio Code">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg" alt="Utilisation de Trello">
+   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg" alt="Utilisation de Notion">
+</p>
+
+</div>
+</div>
+
+
+## 📖 J'apprends actuellement :
+- `Python`  `Django`
+- `MongoDB`
 
 ## ✨ Mes projets récents
-Voici quelques projets sur lesquels j'ai travaillé :
 
 ### **[Portfolio](https://github.com/CynthiaStephan/portfolio)**   `React` `JavaScript` `OGL` `Gsap` `Mobile First`
-   Ce portfolio a été conçu pour présenter mes projets et compétences tout en explorant des technologies comme OGL et GSAP. Il a été développé avec une approche mobile-first et met l'accent sur une structure simple et efficace.
+   Ce portfolio a été conçu pour présenter mes projets et compétences tout en explorant des technologies comme OGL et GSAP. Il a été développé avec une approche mobile-first.
 
 ### **[RoboStore](https://github.com/CynthiaStephan/RoboStore)** `Symfony` `Twig` `MVC` 
-   RoboStore est une boutique en ligne fictive développée avec Symfony, mettant en avant une gamme de robots révolutionnaires. Ce projet permet aux utilisateurs de parcourir un catalogue de robots, de consulter des fiches détaillées et de gérer un panier pour simuler des achats. Il applique également les principes de conception MVC et SOLID, offrant une expérience utilisateur fluide et un code maintenable.
+   Boutique en ligne fictive mettant en avant un catalogue de robots, avec gestion du panier et application des principes MVC et SOLID.
 
 ### **[PawCalypse](https://github.com/CynthiaStephan/Pawcalypse)** `Php` `Twig` `Docker` `Composer`
-   PawCalypse consiste à refactoriser une application existante pour adopter une architecture MVC et appliquer les principes SOLID. Ce projet met l'accent sur la gestion des missions félines et des ressources dans une interface web intuitive, avec :
-
-   * Un système de suivi des missions et des ressources.
-   * Une gestion des utilisateurs et des sessions.
-   * Un tableau de bord dynamique pour suivre l’avancement du soulèvement félin.
-   
-   Les optimisations incluent l'utilisation de Twig pour les vues, Whoops pour le débogage et Composer pour une gestion des dépendances.
+   Refonte d'une application en architecture MVC, avec gestion des missions félines, des utilisateurs et des ressources. Intégration de Twig, Composer et d'outils pour un code optimisé.
 
 ## 📬 Où me trouver
 - **Email** : [cynthia.stephan@institutsolacroup.com](mailto:cynthia.stephan@institutsolacroup.com)

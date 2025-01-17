@@ -3,7 +3,7 @@
 <p align="center">
 <a style="margin-right: 8px;" href="https://cynthia.errhub404.fr/"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt="Lien vers mon portfolio "></a>
 <a style="margin-right: 8px;" href="https://www.linkedin.com/in/cynthia-stephan/"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="Lien vers mon profil LinkedIn"></a>
-<a style="margin-right: 8px;" href="(mailto:cynthia.stephan@institutsolacroup.com"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" alt="Adresse email : cynthia.stephan@institutsolacroup.com"></a>
+<a style="margin-right: 8px;" href="mailto:cynthia.stephan@institutsolacroup.com"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" alt="Adresse email : cynthia.stephan@institutsolacroup.com"></a>
 </p>
 
 

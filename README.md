@@ -27,55 +27,56 @@ J'adore fusionner le design et le développement pour créer des expériences co
 ## 💻 Mes compétences
 
 <div class="d-flex flex-row">
-<div>
+   <div>
 
-### Front-End
-<p>
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="Compétence en React">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="Compétence en JavaScript">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" alt="Compétence en HTML">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" alt="Compétence en CSS">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome3.svg" alt="Utilisation de Font Awesome">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" alt="Compétence en ViteJS">
-</p>
+   ### Front-End
+   <p>
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="Compétence en React">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="Compétence en JavaScript">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" alt="Compétence en HTML">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" alt="Compétence en CSS">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome3.svg" alt="Utilisation de Font Awesome">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" alt="Compétence en ViteJS">
+   </p>
 
-### Design
-<p>
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" alt="Compétence en Figma">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg" alt="Compétence en Adobe XD">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg" alt="Compétence en Photoshop">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg" alt="Compétence en Illustrator">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign3.svg" alt="Compétence en InDesign">
-</p>
+   ### Design
+   <p>
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" alt="Compétence en Figma">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg" alt="Compétence en Adobe XD">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg" alt="Compétence en Photoshop">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg" alt="Compétence en Illustrator">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign3.svg" alt="Compétence en InDesign">
+   </p>
 
-</div>
-<div>
+   </div>
+   
+   <div>
 
-### Back-End
-<p>
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" alt="Compétence en Node.js">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" alt="Compétence en Express.js">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg" alt="Compétence en PHP">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony3.svg" alt="Compétence en Symfony">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg" alt="Compétence en SQLite">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" alt="Compétence en MySQL">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg" alt="Compétence en MongoDB">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" alt="Compétence en Jest">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Compétence en Python">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize3.svg" alt="Compétence en Sequelize">
-</p>
+   ### Back-End
+   <p>
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" alt="Compétence en Node.js">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" alt="Compétence en Express.js">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg" alt="Compétence en PHP">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony3.svg" alt="Compétence en Symfony">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg" alt="Compétence en SQLite">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" alt="Compétence en MySQL">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg" alt="Compétence en MongoDB">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" alt="Compétence en Jest">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Compétence en Python">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize3.svg" alt="Compétence en Sequelize">
+   </p>
 
-### Outils
-<p>
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" alt="Utilisation de Git">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="Utilisation de GitHub">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" alt="Compétence en Docker">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Utilisation de Visual Studio Code">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg" alt="Utilisation de Trello">
-   <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg" alt="Utilisation de Notion">
-</p>
+   ### Outils
+   <p>
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" alt="Utilisation de Git">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="Utilisation de GitHub">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" alt="Compétence en Docker">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Utilisation de Visual Studio Code">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg" alt="Utilisation de Trello">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg" alt="Utilisation de Notion">
+   </p>
 
-</div>
+   </div>
 </div>
 
 

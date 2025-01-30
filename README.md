@@ -6,12 +6,12 @@
 <a style="margin-right: 8px;" href="mailto:cynthia.stephan@institutsolacroup.com"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" alt="Adresse email : cynthia.stephan@institutsolacroup.com"></a>
 </p>
 
-
-
 # Hello, moi c'est Cynthia 🤗
 
-## 🚀 En quête d'une alternance pour contribuer à des projets web ambitieux en tant que **développeuse Fullstack** !
-
+>
+>[!NOTE]
+> En quête d'une alternance pour contribuer à des projets web ambitieux en tant que **développeuse Fullstack** ! 🚀
+>
 
 Passionnée par l'art et les technologies,  j'ai commencé par le design UI/UX avant de me passionner pour le code ! Cette double casquette me permet aujourd'hui d'avoir une vision complète du développement web. En formation Fullstack à l'IMTS de Dinard, je cherche une alternance où je pourrai mettre à profit ces deux facettes qui me tiennent à cœur.
 
@@ -81,7 +81,6 @@ J'adore fusionner le design et le développement pour créer des expériences co
 
 ## 📖 J'apprends actuellement :
 - `Python`  `Django`
-- `MongoDB`
 
 ## ✨ Mes projets récents
 

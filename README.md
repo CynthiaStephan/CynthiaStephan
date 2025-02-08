@@ -85,14 +85,14 @@ J'adore fusionner le design et le développement pour créer des expériences co
 
 ## ✨ Mes projets récents
 
+### **[MyMood](https://github.com/CynthiaStephan/MyMood.app)**   `Node.js` `Express` `MySQL` `JWT` `Docker` `API REST`
+   Application web pour suivre le bien-être des étudiants, avec gestion des utilisateurs, des alertes, et des cohortes. Authentification sécurisée via JWT et déploiement avec Docker.
+
 ### **[Portfolio](https://github.com/CynthiaStephan/portfolio)**   `React` `JavaScript` `OGL` `Gsap` `Mobile First`
    Ce portfolio a été conçu pour présenter mes projets et compétences tout en explorant des technologies comme OGL et GSAP. Il a été développé avec une approche mobile-first.
 
 ### **[RoboStore](https://github.com/CynthiaStephan/RoboStore)** `Symfony` `Twig` `MVC` 
    Boutique en ligne fictive mettant en avant un catalogue de robots, avec gestion du panier et application des principes MVC et SOLID.
-
-### **[PawCalypse](https://github.com/CynthiaStephan/Pawcalypse)** `Php` `Twig` `Docker` `Composer`
-   Refonte d'une application en architecture MVC, avec gestion des missions félines, des utilisateurs et des ressources. Intégration de Twig, Composer et d'outils pour un code optimisé.
 
 ## 📬 Où me trouver
 - **Email** : [cynthia.stephan@institutsolacroup.com](mailto:cynthia.stephan@institutsolacroup.com)

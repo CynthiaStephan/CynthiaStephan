@@ -32,6 +32,7 @@ J'adore fusionner le design et le développement pour créer des expériences co
    ### Front-End
    <p>
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="Compétence en React">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg" alt="Compétence en Vue">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="Compétence en JavaScript">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" alt="Compétence en HTML">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" alt="Compétence en CSS">
@@ -63,7 +64,9 @@ J'adore fusionner le design et le développement pour créer des expériences co
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg" alt="Compétence en MongoDB">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" alt="Compétence en Jest">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Compétence en Python">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django3.svg" alt="Compétence en Django">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize3.svg" alt="Compétence en Sequelize">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt3.svg" alt="Compétence en JTW">
    </p>
 
    ### Outils

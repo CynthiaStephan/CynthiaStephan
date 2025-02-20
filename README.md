@@ -61,6 +61,7 @@ J'adore fusionner le design et le développement pour créer des expériences co
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Symfony/symfony3.svg" alt="Compétence en Symfony">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite3.svg" alt="Compétence en SQLite">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg" alt="Compétence en MySQL">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg" alt="Compétence en PostgreSQL">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg" alt="Compétence en MongoDB">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" alt="Compétence en Jest">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Compétence en Python">
@@ -75,6 +76,7 @@ J'adore fusionner le design et le développement pour créer des expériences co
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="Utilisation de GitHub">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" alt="Compétence en Docker">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Utilisation de Visual Studio Code">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg" alt="Utilisation de Postman">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg" alt="Utilisation de Trello">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg" alt="Utilisation de Notion">
    </p>

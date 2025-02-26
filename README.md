@@ -10,7 +10,7 @@
 
 >
 >[!NOTE]
-> ### En quête d'une alternance pour contribuer à des projets web ambitieux en tant que **développeuse Fullstack** ! 🚀
+> ### En quête d'une alternance pour contribuer à des projets web ambitieux en tant que **Conceptrice Développeuse d'Application** ! 🚀
 >
 
 Passionnée par l'art et les technologies,  j'ai commencé par le design UI/UX avant de me passionner pour le code ! Cette double casquette me permet aujourd'hui d'avoir une vision complète du développement web. En formation Fullstack à l'IMTS de Dinard, je cherche une alternance où je pourrai mettre à profit ces deux facettes qui me tiennent à cœur.

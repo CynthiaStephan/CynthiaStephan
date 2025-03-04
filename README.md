@@ -10,24 +10,20 @@
 
 >
 >[!NOTE]
-> ### En quête d'une alternance pour contribuer à des projets web ambitieux en tant que **Conceptrice Développeuse d'Application** ! 🚀
+> ### En quête d'une alternance pour contribuer à des projets ambitieux en tant que **Conceptrice Développeuse d'Application** ! 🚀
 >
 
-Passionnée par l'art et les technologies,  j'ai commencé par le design UI/UX avant de me passionner pour le code ! Cette double casquette me permet aujourd'hui d'avoir une vision complète du développement web. En formation Fullstack à l'IMTS de Dinard, je cherche une alternance où je pourrai mettre à profit ces deux facettes qui me tiennent à cœur.
+Passionnée par l'art et les technologies, j'ai commencé par le design UI/UX, fascinée par l'idée de créer des interfaces qui parlent aux utilisateurs. Puis, j'ai eu envie d'aller plus loin : donner vie à ces designs par le code. Aujourd'hui, en formation Fullstack à l'IMTS de Dinard, je cherche une alternance pour allier ces deux passions et contribuer à des projets qui allient beauté et fonctionnalité.
 
 ## 🌱 Mon parcours, étape par étape :
-- **UI/UX Designer** : La création d'interfaces intuitives m'a appris l'importance d'une expérience utilisateur bien pensée.
-- **Développement Front-End** : J'ai appris à donner vie aux designs, en créant des interfaces interactives et fonctionnelles.
-- **Développement Back-End** : En formation à l'IMTS de Dinard, j'explore l'architecture des applications et la gestion des données. 
+- **UI/UX Designer** : J'ai découvert l'importance de l'empathie dans la création d'interfaces intuitives et engageantes.
+- **Développement Front-End** : J'ai appris à transformer des maquettes en expériences interactives, en veillant à ce que chaque détail soit fonctionnel et agréable.
+- **Développement Back-End** : Aujourd'hui, j'explore l'envers du décor. L'architecture des applications, la gestion des données pour comprendre comment tout s'articule derrière l'interface.
 
 ## 😎 Ma vision
-J'adore fusionner le design et le développement pour créer des expériences complètes et captivantes. Mon but ? Concevoir des applications non seulement belles et intuitives, mais aussi alignées avec les besoins des utilisateurs.
- À chaque étape du processus, je cherche à perfectionner mon approche, tout en apprenant de chaque projet pour aller toujours plus loin.
+Pour moi, le design et le développement ne font qu'un. J'aime créer des applications qui ne sont pas seulement belles et intuitives, mais aussi solides et alignées avec les besoins des utilisateurs. Chaque projet est une nouvelle aventure, une occasion d'apprendre, de m'améliorer et de repousser mes limites.
 
 ## 💻 Mes compétences
-
-<div class="d-flex flex-row">
-   <div>
 
    ### Front-End
    <p>
@@ -39,19 +35,6 @@ J'adore fusionner le design et le développement pour créer des expériences co
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome3.svg" alt="Utilisation de Font Awesome">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" alt="Compétence en ViteJS">
    </p>
-
-   ### Design
-   <p>
-      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" alt="Compétence en Figma">
-      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg" alt="Compétence en Adobe XD">
-      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg" alt="Compétence en Photoshop">
-      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg" alt="Compétence en Illustrator">
-      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign3.svg" alt="Compétence en InDesign">
-   </p>
-
-   </div>
-   
-   <div>
 
    ### Back-End
    <p>
@@ -69,7 +52,16 @@ J'adore fusionner le design et le développement pour créer des expériences co
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize3.svg" alt="Compétence en Sequelize">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt3.svg" alt="Compétence en JTW">
    </p>
-
+   
+   ### Design
+   <p>
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma3.svg" alt="Compétence en Figma">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/XD/xd3.svg" alt="Compétence en Adobe XD">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg" alt="Compétence en Photoshop">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg" alt="Compétence en Illustrator">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/InDesign/indesign3.svg" alt="Compétence en InDesign">
+   </p>
+   
    ### Outils
    <p>
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" alt="Utilisation de Git">
@@ -80,9 +72,6 @@ J'adore fusionner le design et le développement pour créer des expériences co
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg" alt="Utilisation de Trello">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg" alt="Utilisation de Notion">
    </p>
-
-   </div>
-</div>
 
 
 ## 📖 J'apprends actuellement :

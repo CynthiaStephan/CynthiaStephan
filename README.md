@@ -13,15 +13,18 @@
 > ### En quête d'une alternance pour contribuer à des projets ambitieux en tant que **Conceptrice Développeuse d'Application** ! 🚀
 >
 
-Passionnée par l'art et les technologies, j'ai commencé par le design UI/UX, fascinée par l'idée de créer des interfaces qui parlent aux utilisateurs. Puis, j'ai eu envie d'aller plus loin : donner vie à ces designs par le code. Aujourd'hui, en formation Fullstack à l'IMTS de Dinard, je cherche une alternance pour allier ces deux passions et contribuer à des projets qui allient beauté et fonctionnalité.
+Entre art et technologies, j'ai d'abord exploré l'univers du design UI/UX avant que la curiosité ne me guide vers le développement web.
+
+En formation Fullstack à l'IMTS de Dinard, je recherche une alternance au sein d'une entreprise où je pourrai contribuer à des projets innovants qui valorisent autant l'expérience utilisateur que la qualité technique, tout en développant ma double expertise.
+
+Pour moi, développement et design forment un ensemble cohérent, indissociables et complémentaires.
+J'aime concevoir des applications où l'esthétique et la technique s'entrelacent naturellement, en restant à l'écoute des besoins utilisateurs qui évoluent au fil de leurs interactions.
 
 ## 🌱 Mon parcours, étape par étape :
 - **UI/UX Designer** : J'ai découvert l'importance de l'empathie dans la création d'interfaces intuitives et engageantes.
 - **Développement Front-End** : J'ai appris à transformer des maquettes en expériences interactives, en veillant à ce que chaque détail soit fonctionnel et agréable.
 - **Développement Back-End** : Aujourd'hui, j'explore l'envers du décor. L'architecture des applications, la gestion des données pour comprendre comment tout s'articule derrière l'interface.
 
-## 😎 Ma vision
-Pour moi, le design et le développement ne font qu'un. J'aime créer des applications qui ne sont pas seulement belles et intuitives, mais aussi solides et alignées avec les besoins des utilisateurs. Chaque projet est une nouvelle aventure, une occasion d'apprendre, de m'améliorer et de repousser mes limites.
 
 ## 💻 Mes compétences
 

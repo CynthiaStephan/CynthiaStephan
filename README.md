@@ -80,7 +80,7 @@ J'aime concevoir des applications où l'esthétique et la technique s'entrelacen
 
 
 ## 📖 J'apprends actuellement :
-- `Python`  `Django`
+- `Python`  `FastAPI`
 
 ## ✨ Mes projets récents
 

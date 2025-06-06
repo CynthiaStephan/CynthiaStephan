@@ -52,6 +52,7 @@ J'aime concevoir des applications où l'esthétique et la technique s'entrelacen
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" alt="Compétence en Jest">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Compétence en Python">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django3.svg" alt="Compétence en Django">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg" alt="Compétence en FastAPI">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sequelize/sequelize3.svg" alt="Compétence en Sequelize">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt3.svg" alt="Compétence en JTW">
    </p>
@@ -74,6 +75,7 @@ J'aime concevoir des applications où l'esthétique et la technique s'entrelacen
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman3.svg" alt="Utilisation de Postman">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg" alt="Utilisation de Trello">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg" alt="Utilisation de Notion">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" alt="Utilisation de Linux">
    </p>
 
 

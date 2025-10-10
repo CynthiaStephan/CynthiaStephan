@@ -3,22 +3,18 @@
 <p align="center">
 <a style="margin-right: 8px;" href="https://cynthia.errhub404.fr/"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt="Lien vers mon portfolio "></a>
 <a style="margin-right: 8px;" href="https://www.linkedin.com/in/cynthia-stephan/"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="Lien vers mon profil LinkedIn"></a>
-<a style="margin-right: 8px;" href="mailto:cynthia.stephan@institutsolacroup.com"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" alt="Adresse email : cynthia.stephan@institutsolacroup.com"></a>
 </p>
 
 # Hello, moi c'est Cynthia 🤗
 
->
->[!NOTE]
-> ### En quête d'une alternance pour contribuer à des projets ambitieux en tant que **Conceptrice Développeuse d'Application** ! 🚀
->
+Mon parcours a débuté dans le design UI/UX avant que ma curiosité ne me pousse à explorer le développement web.
 
-Entre art et technologies, j'ai d'abord exploré l'univers du design UI/UX avant que la curiosité ne me guide vers le développement web.
-
-En formation Fullstack à l'IMTS de Dinard, je recherche une alternance au sein d'une entreprise où je pourrai contribuer à des projets innovants qui valorisent autant l'expérience utilisateur que la qualité technique, tout en développant ma double expertise.
-
+Aujourd’hui, je mets à profit cette double expertise pour concevoir et développer des produits qui allient esthétique, performance et sens métier.
 Pour moi, développement et design forment un ensemble cohérent, indissociables et complémentaires.
 J'aime concevoir des applications où l'esthétique et la technique s'entrelacent naturellement, en restant à l'écoute des besoins utilisateurs qui évoluent au fil de leurs interactions.
+
+Ce qui me passionne, c’est de voir un produit prendre forme étape par étape, en collaborant avec les équipes pour améliorer nos outils et relever de nouveaux défis.
+Curieuse et toujours en apprentissage, je m’intéresse aux évolutions technologiques et aux bonnes pratiques qui permettent d’améliorer la qualité et la durabilité des produits numériques. 🚀
 
 ## 🌱 Mon parcours, étape par étape :
 - **UI/UX Designer** : J'ai découvert l'importance de l'empathie dans la création d'interfaces intuitives et engageantes.
@@ -94,6 +90,5 @@ J'aime concevoir des applications où l'esthétique et la technique s'entrelacen
    Boutique en ligne fictive mettant en avant un catalogue de robots, avec gestion du panier et application des principes MVC et SOLID.
 
 ## 📬 Où me trouver
-- **Email** : [cynthia.stephan@institutsolacroup.com](mailto:cynthia.stephan@institutsolacroup.com)
 - **LinkedIn** : [linkedin.com/in/cynthia-stephan](https://www.linkedin.com/in/cynthia-stephan/)
 - **Portfolio** : [cynthia.errhub404.fr](https://cynthia.errhub404.fr/)

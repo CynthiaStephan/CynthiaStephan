@@ -16,12 +16,6 @@ J'aime concevoir des applications où l'esthétique et la technique s'entrelacen
 Ce qui me passionne, c’est de voir un produit prendre forme étape par étape, en collaborant avec les équipes pour améliorer nos outils et relever de nouveaux défis.
 Curieuse et toujours en apprentissage, je m’intéresse aux évolutions technologiques et aux bonnes pratiques qui permettent d’améliorer la qualité et la durabilité des produits numériques. 🚀
 
-## 🌱 Mon parcours, étape par étape :
-- **UI/UX Designer** : J'ai découvert l'importance de l'empathie dans la création d'interfaces intuitives et engageantes.
-- **Développement Front-End** : J'ai appris à transformer des maquettes en expériences interactives, en veillant à ce que chaque détail soit fonctionnel et agréable.
-- **Développement Back-End** : Aujourd'hui, j'explore l'envers du décor. L'architecture des applications, la gestion des données pour comprendre comment tout s'articule derrière l'interface.
-
-
 ## 💻 Mes compétences
 
    ### Front-End

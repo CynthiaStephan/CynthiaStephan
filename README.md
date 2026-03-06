@@ -7,14 +7,13 @@
 
 # Hello, moi c'est Cynthia 🤗
 
-Mon parcours a débuté dans le design UI/UX avant que ma curiosité ne me pousse à explorer le développement web.
+Mon parcours a commencé par le design UI/UX, avant que la curiosité ne me pousse à mettre les mains dans le développement web.
 
-Aujourd’hui, je mets à profit cette double expertise pour concevoir et développer des produits qui allient esthétique, performance et sens métier.
-Pour moi, développement et design forment un ensemble cohérent, indissociables et complémentaires.
-J'aime concevoir des applications où l'esthétique et la technique s'entrelacent naturellement, en restant à l'écoute des besoins utilisateurs qui évoluent au fil de leurs interactions.
+Aujourd’hui, je travaille à la fois sur la conception et l’implémentation des produits. Le design et le développement ne sont pas deux étapes séparées pour moi : ils avancent ensemble et s’influencent en permanence. J’aime construire des applications où les choix visuels, les interactions et les contraintes techniques trouvent un équilibre naturel.
 
-Ce qui me passionne, c’est de voir un produit prendre forme étape par étape, en collaborant avec les équipes pour améliorer nos outils et relever de nouveaux défis.
-Curieuse et toujours en apprentissage, je m’intéresse aux évolutions technologiques et aux bonnes pratiques qui permettent d’améliorer la qualité et la durabilité des produits numériques. 🚀
+Ce qui m’intéresse particulièrement, c’est le processus de construction d’un produit : voir une idée se préciser, évoluer, puis devenir un outil réellement utilisé. J’apprécie travailler avec les équipes pour faire évoluer nos produits, améliorer les détails qui comptent, et résoudre les problèmes qui apparaissent en chemin.
+
+Toujours en apprentissage, je m’intéresse aux pratiques et aux outils qui permettent de concevoir des produits numériques plus clairs, plus robustes et plus durables.
 
 ## 💻 Mes compétences
 

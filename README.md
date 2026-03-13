@@ -11,7 +11,7 @@ Mon parcours a commencé par le design UI/UX, avant que la curiosité ne me pous
 
 Aujourd’hui, je travaille à la fois sur la conception et l’implémentation des produits. Le design et le développement ne sont pas deux étapes séparées pour moi : ils avancent ensemble et s’influencent en permanence. J’aime construire des applications où les choix visuels, les interactions et les contraintes techniques trouvent un équilibre naturel.
 
-Ce qui m’intéresse particulièrement, c’est le processus de construction d’un produit : voir une idée se préciser, évoluer, puis devenir un outil réellement utilisé. J’apprécie travailler avec les équipes pour faire évoluer nos produits, améliorer les détails qui comptent, et résoudre les problèmes qui apparaissent en chemin.
+Ce qui m’intéresse, c’est le processus de construction d’un produit : voir une idée se préciser, évoluer, puis devenir un outil utilisé. J’apprécie travailler avec les équipes pour faire évoluer nos produits, améliorer les détails qui comptent, et résoudre les problèmes qui apparaissent en chemin.
 
 Toujours en apprentissage, je m’intéresse aux pratiques et aux outils qui permettent de concevoir des produits numériques plus clairs, plus robustes et plus durables.
 
@@ -22,6 +22,7 @@ Toujours en apprentissage, je m’intéresse aux pratiques et aux outils qui per
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" alt="Compétence en React">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg" alt="Compétence en Vue">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="Compétence en JavaScript">
+      <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" alt="Compétence en TypeScript">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" alt="Compétence en HTML">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" alt="Compétence en CSS">
       <img height="24px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome3.svg" alt="Utilisation de Font Awesome">

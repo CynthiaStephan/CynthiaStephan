@@ -1,7 +1,7 @@
 ![Bannière Cynthia Stephan](./src/banner.jpg)
 
 <p align="center">
-<a style="margin-right: 8px;" href="https://cynthia.errhub404.fr/"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt="Lien vers mon portfolio "></a>
+<a style="margin-right: 8px;" href="https://cynthiastephan.vercel.app/"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt="Lien vers mon portfolio "></a>
 <a style="margin-right: 8px;" href="https://www.linkedin.com/in/cynthia-stephan/"><img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="Lien vers mon profil LinkedIn"></a>
 </p>
 
@@ -85,4 +85,4 @@ Toujours en apprentissage, je m’intéresse aux pratiques et aux outils qui per
 
 ## 📬 Où me trouver
 - **LinkedIn** : [linkedin.com/in/cynthia-stephan](https://www.linkedin.com/in/cynthia-stephan/)
-- **Portfolio** : [cynthia.errhub404.fr](https://cynthia.errhub404.fr/)
+- **Portfolio** : [https://cynthiastephan.vercel.app/][(https://cynthiastephan.vercel.app/)]

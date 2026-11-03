@@ -84,5 +84,5 @@ Toujours en apprentissage, je m’intéresse aux pratiques et aux outils qui per
    Boutique en ligne fictive mettant en avant un catalogue de robots, avec gestion du panier et application des principes MVC et SOLID.
 
 ## 📬 Où me trouver
-- **LinkedIn** : [linkedin.com/in/cynthia-stephan][(https://www.linkedin.com/in/cynthia-stephan/)]
-- **Portfolio** : [https://cynthiastephan.vercel.app/][(https://cynthiastephan.vercel.app/)]
+- **LinkedIn** : [linkedin.com/in/cynthia-stephan](https://www.linkedin.com/in/cynthia-stephan/)
+- **Portfolio** : [https://cynthiastephan.vercel.app/](https://cynthiastephan.vercel.app/)
